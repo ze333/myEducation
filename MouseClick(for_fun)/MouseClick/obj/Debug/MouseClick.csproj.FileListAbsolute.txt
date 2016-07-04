@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\MouseClick\MouseClick\bin\Debug\MouseClick.exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\obj\Debug\MouseClick.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\obj\Debug\MouseClick.Form1.resources
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\obj\Debug\MouseClick.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\obj\Debug\MouseClick.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\bin\Debug\MouseClick.exe
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\bin\Debug\MouseClick.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\obj\Debug\MouseClick.exe
+C:\Users\ADMIN\Documents\Visual Studio 2013\Projects\MouseClick\MouseClick\obj\Debug\MouseClick.pdb
